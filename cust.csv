@@ -1,0 +1,11 @@
+Customer_ID,Customer_Name,Gender,Age,State,Product_ID,Product_Type,Total
+123,Anish,Male,20,Madhya Pradesh,"[1, 5, 9]","[Shirt, Shirt, Pant]",3400
+342,Raju,Female,19,Tamil Nadu,"[2, 4, 10]","[Shirt, Shirt, Pant]",1233
+397,Rama,Female,20,Maharashtra,[1],[Shirt],533
+982,Rohan,Male,32,Maharashtra,"[3, 1, 8]","[Shirt, Shirt, Pant]",654
+423,Atul,Male,18,Delhi,"[1, 5, 9]","[Shirt, Shirt, Pant]",754
+142,Harish,Male,25,Gujrat,"[2, 8]","[Shirt, Pant]",912
+112,Sachin,Male,24,Delhi,"[2, 4, 10]","[Shirt, Shirt, Pant]",554
+453,Paritosh,Male,27,Madhya Pradesh,[4],[Shirt],656
+764,Suhail,Male,22,Punjab,"[5, 2, 8]","[Shirt, Shirt, Pant]",776
+104,Titash,Male,33,Uttar Pradesh,[8],[Pant],345

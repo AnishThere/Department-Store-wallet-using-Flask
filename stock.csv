@@ -1,0 +1,11 @@
+Product_ID,Product_Type,Size,Color,Name,Price,Quantity
+1,Shirt,L,Red,Peter England,500,15
+2,Shirt,XL,Orange,Van Heusen,700,25
+3,Shirt,S,Blue,Peter England,200,13
+4,Shirt,M,Green,Louis Phillipe,400,16
+5,Shirt,XS,Yellow,Van Heusen,600,18
+6,Shirt,M,Violet,Louis Phillipe,1200,29
+7,Shirt,L,Magenta,Park Avenue,1000,59
+8,Pant,L,Red,Levi's,230,44
+9,Pant,XXL,Green,Wrangler,690,23
+10,Pant,M,Blue,Pepe Jeans,780,14
